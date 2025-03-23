@@ -1,4 +1,4 @@
-**#Project Overview: CreativeYTChannels**
+# Project Overview: CreativeYTChannels
 
 **#Objective**
 This project is to analyze a YouTube dataset, focusing on Creative YouTube Channels to uncover insights and trends related to engagement metrics, such as impressions, views, and subscribers. The project leverages data cleaning and visualization techniques to derive meaningful correlations and trends from the dataset. Key visualizations, such as bar charts, pie charts, and scatter plots, are used to display various findings, including regional trends, video categories, and channel growth.
